@@ -8,6 +8,12 @@
 - Modeled data within Power BI to optimize for analysis, transforming raw data into a structured format conducive to defining relationships and uncovering insights.
 - Designed interactive dashboards and visualizations in Power BI with synced slicers across different pages to explore and visualize traffic crash trends effectively.
 
+## Contact
+
+Author: Smit Rana
+
+LinkedIn: [linkedin.com/in/smit98rana/](https://www.linkedin.com/in/smit98rana/)https://www.linkedin.com/in/smit98rana/
+
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
