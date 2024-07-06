@@ -28,8 +28,11 @@ However, for columns with very few missing values, we opt to impute the missing 
 
 ![image](https://github.com/gentallman/Traffic_Crash_Chicago/assets/78334851/0ca2f4ae-a8bc-4630-8a8d-3875d2cd695c)
 
+Overview:
 
-![Report_Traffic_Crash_Analysis](https://github.com/gentallman/Traffic_Crash_Chicago/assets/78334851/be9e1503-4229-444e-b7cc-26929f1fcdeb)
+<p align="left">
+  <img src="https://github.com/gentallman/Traffic_Crash_Chicago/assets/78334851/be9e1503-4229-444e-b7cc-26929f1fcdeb" width="500">
+</p>
 
 ### Deciphering Traffic Crash Patterns
 In summary, my analysis of traffic crash data reveals significant trends and patterns crucial for understanding road safety. 
